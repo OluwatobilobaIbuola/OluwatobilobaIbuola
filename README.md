@@ -6,7 +6,6 @@ I'm a Software Engineer who currently works as a Frontend Developer at Nxt Gen X
 
 **A quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.

@@ -6,7 +6,6 @@ I'm a Software Engineer who currently works as a Frontend Developer at Nxt Gen X
 
 **A quick summary about me**:
 
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior level  | mid level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtoibuolatobi@gmail.com.

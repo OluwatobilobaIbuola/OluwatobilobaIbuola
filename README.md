@@ -12,5 +12,3 @@ I'm a Software Engineer who currently works as a Frontend Developer at Pendulum.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=oluwatobilobaibuola&show_icons=true&include_all_commits=true&hide_border=true" alt="Tobiloba's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatobilobaibuola&langs_count=8&layout=compact&hide_border=true" alt="Tobiloba's GitHub stats" /> |
-| ------------- | ------------- |

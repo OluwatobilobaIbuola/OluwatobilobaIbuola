@@ -7,7 +7,7 @@ I'm a Software Engineer who currently works at EarlyNode. I'm passionate about s
 **A quick summary about me**:
 
 - 😊 I’m looking for help with open source projects.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (mid level).
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (mid - senior level).
 - 📫 You can [view my resume](#) and contact me by emailing mailtoibuolatobi@gmail.com.
 
 ---
